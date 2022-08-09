@@ -2,7 +2,7 @@ import { Dish } from "./dish";
 
 export const DISHES: Dish[]= [
     {
-      id: '0',
+      id: '3',
       name: 'couscous tunisien',
       image: '/assets/images/couscous.jpg',
       category: 'plat principal',
@@ -128,7 +128,7 @@ export const DISHES: Dish[]= [
     ]
     },
     {
-      id: '3',
+      id: '0',
       name: 'Gastronomie tunisienne',
       image: '/assets/images/Gastronomie tunisienne.jpg',
       category: 'mains',
